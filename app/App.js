@@ -74,3 +74,5 @@ window.onload = () => {
     displayPrincipal.setAttribute('style','padding:300px 0px;background-color:#d4d4d4');
     telaPrincipal.appendChild(displayPrincipal);
 }
+
+console.log('Worms')
